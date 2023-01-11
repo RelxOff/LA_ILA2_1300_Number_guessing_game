@@ -1,0 +1,30 @@
+C:\$ BBB\IMS-Lernatelier 2\LA_1300\LA_ILA2_1300_numberguessing\LA_ILA2_1300_numberguessing\bin\Debug\net6.0\LA_ILA2_1300_numberguessing.exe
+C:\$ BBB\IMS-Lernatelier 2\LA_1300\LA_ILA2_1300_numberguessing\LA_ILA2_1300_numberguessing\bin\Debug\net6.0\LA_ILA2_1300_numberguessing.deps.json
+C:\$ BBB\IMS-Lernatelier 2\LA_1300\LA_ILA2_1300_numberguessing\LA_ILA2_1300_numberguessing\bin\Debug\net6.0\LA_ILA2_1300_numberguessing.runtimeconfig.json
+C:\$ BBB\IMS-Lernatelier 2\LA_1300\LA_ILA2_1300_numberguessing\LA_ILA2_1300_numberguessing\bin\Debug\net6.0\LA_ILA2_1300_numberguessing.dll
+C:\$ BBB\IMS-Lernatelier 2\LA_1300\LA_ILA2_1300_numberguessing\LA_ILA2_1300_numberguessing\bin\Debug\net6.0\LA_ILA2_1300_numberguessing.pdb
+C:\$ BBB\IMS-Lernatelier 2\LA_1300\LA_ILA2_1300_numberguessing\LA_ILA2_1300_numberguessing\obj\Debug\net6.0\LA_ILA2_1300_numberguessing.csproj.AssemblyReference.cache
+C:\$ BBB\IMS-Lernatelier 2\LA_1300\LA_ILA2_1300_numberguessing\LA_ILA2_1300_numberguessing\obj\Debug\net6.0\LA_ILA2_1300_numberguessing.GeneratedMSBuildEditorConfig.editorconfig
+C:\$ BBB\IMS-Lernatelier 2\LA_1300\LA_ILA2_1300_numberguessing\LA_ILA2_1300_numberguessing\obj\Debug\net6.0\LA_ILA2_1300_numberguessing.AssemblyInfoInputs.cache
+C:\$ BBB\IMS-Lernatelier 2\LA_1300\LA_ILA2_1300_numberguessing\LA_ILA2_1300_numberguessing\obj\Debug\net6.0\LA_ILA2_1300_numberguessing.AssemblyInfo.cs
+C:\$ BBB\IMS-Lernatelier 2\LA_1300\LA_ILA2_1300_numberguessing\LA_ILA2_1300_numberguessing\obj\Debug\net6.0\LA_ILA2_1300_numberguessing.csproj.CoreCompileInputs.cache
+C:\$ BBB\IMS-Lernatelier 2\LA_1300\LA_ILA2_1300_numberguessing\LA_ILA2_1300_numberguessing\obj\Debug\net6.0\LA_ILA2_1300_numberguessing.dll
+C:\$ BBB\IMS-Lernatelier 2\LA_1300\LA_ILA2_1300_numberguessing\LA_ILA2_1300_numberguessing\obj\Debug\net6.0\refint\LA_ILA2_1300_numberguessing.dll
+C:\$ BBB\IMS-Lernatelier 2\LA_1300\LA_ILA2_1300_numberguessing\LA_ILA2_1300_numberguessing\obj\Debug\net6.0\LA_ILA2_1300_numberguessing.pdb
+C:\$ BBB\IMS-Lernatelier 2\LA_1300\LA_ILA2_1300_numberguessing\LA_ILA2_1300_numberguessing\obj\Debug\net6.0\LA_ILA2_1300_numberguessing.genruntimeconfig.cache
+C:\$ BBB\IMS-Lernatelier 2\LA_1300\LA_ILA2_1300_numberguessing\LA_ILA2_1300_numberguessing\obj\Debug\net6.0\ref\LA_ILA2_1300_numberguessing.dll
+C:\$ BBB\IMS-Lernatelier 2\LA_1300\New folder\LA_ILA2_1300_numberguessing\LA_ILA2_1300_numberguessing\bin\Debug\net6.0\LA_ILA2_1300_numberguessing.exe
+C:\$ BBB\IMS-Lernatelier 2\LA_1300\New folder\LA_ILA2_1300_numberguessing\LA_ILA2_1300_numberguessing\bin\Debug\net6.0\LA_ILA2_1300_numberguessing.deps.json
+C:\$ BBB\IMS-Lernatelier 2\LA_1300\New folder\LA_ILA2_1300_numberguessing\LA_ILA2_1300_numberguessing\bin\Debug\net6.0\LA_ILA2_1300_numberguessing.runtimeconfig.json
+C:\$ BBB\IMS-Lernatelier 2\LA_1300\New folder\LA_ILA2_1300_numberguessing\LA_ILA2_1300_numberguessing\bin\Debug\net6.0\LA_ILA2_1300_numberguessing.dll
+C:\$ BBB\IMS-Lernatelier 2\LA_1300\New folder\LA_ILA2_1300_numberguessing\LA_ILA2_1300_numberguessing\bin\Debug\net6.0\LA_ILA2_1300_numberguessing.pdb
+C:\$ BBB\IMS-Lernatelier 2\LA_1300\New folder\LA_ILA2_1300_numberguessing\LA_ILA2_1300_numberguessing\obj\Debug\net6.0\LA_ILA2_1300_numberguessing.csproj.AssemblyReference.cache
+C:\$ BBB\IMS-Lernatelier 2\LA_1300\New folder\LA_ILA2_1300_numberguessing\LA_ILA2_1300_numberguessing\obj\Debug\net6.0\LA_ILA2_1300_numberguessing.GeneratedMSBuildEditorConfig.editorconfig
+C:\$ BBB\IMS-Lernatelier 2\LA_1300\New folder\LA_ILA2_1300_numberguessing\LA_ILA2_1300_numberguessing\obj\Debug\net6.0\LA_ILA2_1300_numberguessing.AssemblyInfoInputs.cache
+C:\$ BBB\IMS-Lernatelier 2\LA_1300\New folder\LA_ILA2_1300_numberguessing\LA_ILA2_1300_numberguessing\obj\Debug\net6.0\LA_ILA2_1300_numberguessing.AssemblyInfo.cs
+C:\$ BBB\IMS-Lernatelier 2\LA_1300\New folder\LA_ILA2_1300_numberguessing\LA_ILA2_1300_numberguessing\obj\Debug\net6.0\LA_ILA2_1300_numberguessing.csproj.CoreCompileInputs.cache
+C:\$ BBB\IMS-Lernatelier 2\LA_1300\New folder\LA_ILA2_1300_numberguessing\LA_ILA2_1300_numberguessing\obj\Debug\net6.0\LA_ILA2_1300_numberguessing.dll
+C:\$ BBB\IMS-Lernatelier 2\LA_1300\New folder\LA_ILA2_1300_numberguessing\LA_ILA2_1300_numberguessing\obj\Debug\net6.0\refint\LA_ILA2_1300_numberguessing.dll
+C:\$ BBB\IMS-Lernatelier 2\LA_1300\New folder\LA_ILA2_1300_numberguessing\LA_ILA2_1300_numberguessing\obj\Debug\net6.0\LA_ILA2_1300_numberguessing.pdb
+C:\$ BBB\IMS-Lernatelier 2\LA_1300\New folder\LA_ILA2_1300_numberguessing\LA_ILA2_1300_numberguessing\obj\Debug\net6.0\LA_ILA2_1300_numberguessing.genruntimeconfig.cache
+C:\$ BBB\IMS-Lernatelier 2\LA_1300\New folder\LA_ILA2_1300_numberguessing\LA_ILA2_1300_numberguessing\obj\Debug\net6.0\ref\LA_ILA2_1300_numberguessing.dll

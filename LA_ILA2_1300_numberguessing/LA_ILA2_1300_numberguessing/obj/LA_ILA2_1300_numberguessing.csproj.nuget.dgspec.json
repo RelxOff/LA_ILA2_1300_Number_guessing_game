@@ -1,0 +1,63 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\$ BBB\\IMS-Lernatelier 2\\LA_1300\\New folder\\LA_ILA2_1300_numberguessing\\LA_ILA2_1300_numberguessing\\LA_ILA2_1300_numberguessing.csproj": {}
+  },
+  "projects": {
+    "C:\\$ BBB\\IMS-Lernatelier 2\\LA_1300\\New folder\\LA_ILA2_1300_numberguessing\\LA_ILA2_1300_numberguessing\\LA_ILA2_1300_numberguessing.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\$ BBB\\IMS-Lernatelier 2\\LA_1300\\New folder\\LA_ILA2_1300_numberguessing\\LA_ILA2_1300_numberguessing\\LA_ILA2_1300_numberguessing.csproj",
+        "projectName": "LA_ILA2_1300_numberguessing",
+        "projectPath": "C:\\$ BBB\\IMS-Lernatelier 2\\LA_1300\\New folder\\LA_ILA2_1300_numberguessing\\LA_ILA2_1300_numberguessing\\LA_ILA2_1300_numberguessing.csproj",
+        "packagesPath": "C:\\Users\\doeme\\.nuget\\packages\\",
+        "outputPath": "C:\\$ BBB\\IMS-Lernatelier 2\\LA_1300\\New folder\\LA_ILA2_1300_numberguessing\\LA_ILA2_1300_numberguessing\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\doeme\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
