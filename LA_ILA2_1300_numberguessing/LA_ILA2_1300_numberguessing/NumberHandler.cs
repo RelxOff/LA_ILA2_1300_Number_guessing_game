@@ -13,8 +13,8 @@ namespace LA_ILA2_1300_numberguessing
         public void CreateNumber()
         {
             Random rand = new Random();
-            secretNumber = rand.Next(0, 101);
-            Console.WriteLine("Geheimzahl" + " " + secretNumber);
+            secretNumber = rand.Next(1, 101);
+            //Console.WriteLine("Geheimzahl" + " " + secretNumber);
         }
         public int CheckIfWon(int guessedNumber, int userGuesses)
         {

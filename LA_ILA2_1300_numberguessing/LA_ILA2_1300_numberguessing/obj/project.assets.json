@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\$ BBB\\IMS-Lernatelier 2\\LA_1300\\New folder\\LA_ILA2_1300_numberguessing\\LA_ILA2_1300_numberguessing\\LA_ILA2_1300_numberguessing.csproj",
+      "projectUniqueName": "C:\\$ BBB\\IMS-Lernatelier 2\\LA_1300\\New folder\\LA_ILA2_1300_Number_guessing_game\\LA_ILA2_1300_numberguessing\\LA_ILA2_1300_numberguessing\\LA_ILA2_1300_numberguessing.csproj",
       "projectName": "LA_ILA2_1300_numberguessing",
-      "projectPath": "C:\\$ BBB\\IMS-Lernatelier 2\\LA_1300\\New folder\\LA_ILA2_1300_numberguessing\\LA_ILA2_1300_numberguessing\\LA_ILA2_1300_numberguessing.csproj",
+      "projectPath": "C:\\$ BBB\\IMS-Lernatelier 2\\LA_1300\\New folder\\LA_ILA2_1300_Number_guessing_game\\LA_ILA2_1300_numberguessing\\LA_ILA2_1300_numberguessing\\LA_ILA2_1300_numberguessing.csproj",
       "packagesPath": "C:\\Users\\doeme\\.nuget\\packages\\",
-      "outputPath": "C:\\$ BBB\\IMS-Lernatelier 2\\LA_1300\\New folder\\LA_ILA2_1300_numberguessing\\LA_ILA2_1300_numberguessing\\obj\\",
+      "outputPath": "C:\\$ BBB\\IMS-Lernatelier 2\\LA_1300\\New folder\\LA_ILA2_1300_Number_guessing_game\\LA_ILA2_1300_numberguessing\\LA_ILA2_1300_numberguessing\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\doeme\\AppData\\Roaming\\NuGet\\NuGet.Config",
